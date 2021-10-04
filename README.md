@@ -1,3 +1,7 @@
+# Descrição
+
+Projeto criado para listar os repositórios do GitHub do usuário informado. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
